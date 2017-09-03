@@ -36,7 +36,17 @@
     <dependency>
       <groupId>org.b3log</groupId>
       <artifactId>latke</artifactId>
-      <version>2.3.15</version>
+      <version>${latke.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>${servlet.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.jetty</groupId>
+      <artifactId>jetty-webapp</artifactId>
+      <version>${jetty.version}</version>
     </dependency>
   </dependencies>
 

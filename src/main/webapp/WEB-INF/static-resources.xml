@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--静态资源定义，用于定义路径-->
+
+<static-files>
+ <include path="/skins/**/logo.png"/>
+</static-files>
